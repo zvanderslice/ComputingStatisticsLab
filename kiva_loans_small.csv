@@ -1,0 +1,1016 @@
+id,loan_amount,country_name,status,time_to_raise,num_lenders_total
+1080159,5000,United States,funded,10068163,273
+1080165,250,Kenya,funded,8015148,11
+1080153,5000,United States,funded,5823560,261
+1080161,125,Kenya,funded,5110206,9
+1080162,125,Kenya,funded,4743167,8
+653755,500,El Salvador,funded,4366369,19
+654398,600,Timor-Leste,funded,4276094,15
+654332,700,El Salvador,funded,4237016,9
+1080154,10000,United States,funded,4198876,280
+654339,500,El Salvador,funded,3786934,20
+654248,1500,El Salvador,funded,3735089,47
+653746,350,El Salvador,funded,3639772,11
+653870,600,El Salvador,funded,3619693,16
+653749,600,Nicaragua,funded,3492181,24
+653377,600,Nicaragua,funded,3407014,21
+1080167,250,Kenya,funded,3402507,11
+654328,300,El Salvador,funded,3360751,11
+654369,400,El Salvador,funded,3075729,13
+957,1450,Jordan,funded,3046687,36
+974324,575,Kenya,funded,2924705,18
+654288,300,El Salvador,funded,2829443,11
+654251,300,El Salvador,funded,2708218,11
+653547,850,Tajikistan,funded,2694242,34
+653519,2000,Tajikistan,funded,2649417,36
+654373,1000,El Salvador,funded,2642684,37
+653400,1925,Nicaragua,funded,2636393,60
+653792,800,El Salvador,funded,2635406,22
+654116,1175,Sierra Leone,funded,2612736,22
+654306,600,El Salvador,funded,2607460,22
+653427,1200,Peru,funded,2595963,44
+653632,1050,Tajikistan,funded,2576854,39
+653239,1800,Iraq,funded,2571133,67
+653236,2000,Iraq,funded,2560137,59
+653852,600,Nicaragua,funded,2558122,22
+653228,3000,Iraq,funded,2553347,102
+653848,1500,Bolivia,funded,2551695,44
+653842,1500,El Salvador,funded,2548200,47
+653797,600,Nicaragua,funded,2535903,16
+654229,875,Georgia,funded,2533505,28
+653244,2000,Iraq,funded,2531529,71
+1080166,250,Kenya,funded,2511694,10
+653373,1000,Nicaragua,funded,2502214,20
+653226,3000,Iraq,funded,2484098,106
+653232,2400,Iraq,funded,2477531,83
+653231,3000,Palestine,funded,2461826,111
+653581,700,Tajikistan,funded,2459763,26
+653207,3000,Palestine,funded,2447226,98
+1080148,250,Kenya,funded,2434119,6
+653847,1500,Bolivia,funded,2433040,53
+654031,700,Yemen,funded,2432562,23
+654081,1900,Pakistan,funded,2428663,64
+653410,1075,Peru,funded,2426462,41
+653216,2000,Palestine,funded,2426244,62
+653218,2900,Tajikistan,funded,2422240,89
+653152,4175,Colombia,funded,2417480,151
+653512,1275,Tajikistan,funded,2415529,46
+653470,725,Peru,funded,2412250,26
+653444,1000,El Salvador,funded,2410712,36
+653248,1300,Palestine,funded,2402939,38
+653221,3000,Iraq,funded,2401517,97
+653806,5450,United States,funded,2397756,166
+653183,3800,Tanzania,funded,2396448,135
+653154,1575,Colombia,funded,2384106,45
+653169,2750,Tanzania,funded,2377398,96
+653529,2250,Tajikistan,funded,2374379,69
+653522,1000,Tajikistan,funded,2373920,30
+653712,475,Yemen,funded,2372740,8
+882568,350,Kenya,funded,2370450,8
+653756,500,El Salvador,funded,2369684,19
+653170,3175,Tanzania,funded,2367520,93
+653758,500,El Salvador,funded,2363159,17
+653208,500,Kenya,funded,2361978,20
+653117,575,Philippines,funded,2355359,18
+653445,725,Peru,funded,2343191,22
+653418,450,El Salvador,funded,2340107,18
+653363,4500,Tanzania,funded,2339847,161
+653383,1000,Honduras,funded,2337131,40
+653613,1225,Kenya,funded,2332910,39
+653405,1250,Honduras,funded,2330299,46
+653442,1000,El Salvador,funded,2321602,21
+653624,1050,Tajikistan,funded,2320173,42
+653619,1475,Tajikistan,funded,2301393,56
+653686,600,Kenya,funded,2300328,24
+653467,1500,El Salvador,funded,2299076,51
+653695,600,Kenya,funded,2298147,19
+653598,1475,Tajikistan,funded,2296936,49
+653707,600,Kenya,funded,2296901,14
+653357,3800,Tanzania,funded,2294660,108
+653664,600,Kenya,funded,2290892,22
+653678,600,Kenya,funded,2290506,19
+653627,1275,Kenya,funded,2289475,50
+784253,1200,Guatemala,funded,2288095,42
+654103,1400,Sierra Leone,funded,2286644,42
+653614,600,Kenya,funded,2276001,19
+653603,850,Tajikistan,funded,2271180,34
+653576,900,Cambodia,funded,2267550,32
+653726,600,Colombia,funded,2262880,22
+653708,700,Yemen,funded,2247106,26
+653567,625,Cambodia,funded,2240927,25
+653791,1100,El Salvador,funded,2226339,36
+653564,1325,Cambodia,funded,2216277,13
+654106,2000,Tajikistan,funded,2212007,77
+653270,650,Tajikistan,funded,2203254,24
+653825,425,Senegal,funded,2201408,15
+653820,1050,Colombia,funded,2200257,40
+653834,425,Senegal,funded,2196151,15
+653930,750,Jordan,funded,2191627,26
+653838,600,El Salvador,funded,2177589,23
+653841,1500,Bolivia,funded,2168707,46
+653835,425,Senegal,funded,2165604,17
+653871,1200,El Salvador,funded,2165020,44
+653859,900,El Salvador,funded,2164276,33
+653888,1000,El Salvador,funded,2163791,40
+653862,600,Nicaragua,funded,2152644,24
+653775,725,El Salvador,funded,2144840,19
+653920,1300,Colombia,funded,2138445,50
+653887,800,El Salvador,funded,2136589,28
+653932,1325,Jordan,funded,2114982,50
+653949,750,Jordan,funded,2110652,26
+653931,1325,Jordan,funded,2105973,42
+653937,1475,Jordan,funded,2095867,50
+653675,600,Kenya,funded,2094483,24
+654078,600,Kenya,funded,2071537,19
+653879,600,El Salvador,funded,2058883,21
+654094,950,Pakistan,funded,2040734,34
+653191,1500,Cambodia,funded,2037302,50
+654280,1500,El Salvador,funded,2020131,50
+653343,2650,Tanzania,funded,2015004,67
+654051,600,Kenya,funded,2001274,16
+654255,700,El Salvador,funded,1996084,27
+654359,700,Nicaragua,funded,1992314,27
+1080163,125,Kenya,funded,1977938,5
+654344,675,Nicaragua,funded,1969056,26
+653402,800,Nicaragua,funded,1938241,31
+653258,1475,Tajikistan,funded,1923926,52
+654097,1275,Tajikistan,funded,1918610,46
+653163,5925,Tanzania,funded,1886627,134
+653524,850,Tajikistan,funded,1860550,33
+653542,1050,Tajikistan,funded,1855130,22
+653177,4250,Tanzania,funded,1850766,116
+653193,1500,Cambodia,funded,1847439,53
+1080150,125,Kenya,funded,1831642,6
+653831,225,Senegal,funded,1824503,9
+653318,2100,Tanzania,funded,1822873,62
+1080152,125,Kenya,funded,1820603,4
+1080151,125,Kenya,funded,1811045,7
+653824,225,Senegal,funded,1810600,9
+653176,1500,Cambodia,funded,1805212,58
+653212,1225,Kenya,funded,1780907,47
+653171,5475,Tanzania,funded,1770398,169
+653196,700,Cambodia,funded,1746175,28
+1080155,125,Kenya,funded,1745800,4
+1080156,125,Kenya,funded,1744242,7
+653390,800,Nicaragua,funded,1740572,27
+1080157,125,Kenya,funded,1738520,6
+653827,325,Senegal,funded,1736325,12
+653574,1050,Tajikistan,funded,1735679,37
+653430,1000,Honduras,funded,1734781,34
+653360,500,El Salvador,funded,1734053,12
+653784,800,El Salvador,funded,1732931,32
+653823,275,Senegal,funded,1732164,8
+653375,2975,Tanzania,funded,1721448,110
+653404,750,Honduras,funded,1709734,29
+653790,500,El Salvador,funded,1709398,20
+653534,525,Tajikistan,funded,1708904,21
+653413,550,El Salvador,funded,1704769,20
+653432,550,Peru,funded,1700357,20
+653267,1000,Palestine,funded,1698966,40
+653803,5450,United States,funded,1691527,164
+653772,4475,Bolivia,funded,1687900,107
+653496,900,Peru,funded,1687462,34
+653521,1175,Kenya,funded,1679264,39
+653516,2525,Tanzania,funded,1677173,86
+653398,400,Nicaragua,funded,1674574,14
+653709,700,Yemen,funded,1654695,25
+654190,225,Senegal,funded,1652146,9
+653773,5150,Bolivia,funded,1645448,138
+653416,600,Bolivia,funded,1644572,24
+653911,1050,Colombia,funded,1643810,41
+653556,1225,Kenya,funded,1628685,43
+653771,3925,Nicaragua,funded,1622036,135
+653757,1075,Peru,funded,1618359,36
+653776,700,El Salvador,funded,1617461,27
+653473,700,El Salvador,funded,1617431,26
+653447,5000,United States,funded,1607112,174
+653785,700,El Salvador,funded,1607056,28
+653047,2225,Pakistan,funded,1597811,58
+653478,825,Peru,funded,1597797,32
+653513,2350,Tanzania,funded,1592690,75
+653365,1025,El Salvador,funded,1581116,31
+653246,4625,Tanzania,funded,1580758,152
+653583,500,Kenya,funded,1579106,18
+653767,4900,Bolivia,funded,1570401,131
+653844,1500,Bolivia,funded,1561183,47
+444097,1450,Bolivia,funded,1552939,51
+653864,850,El Salvador,funded,1536713,32
+653996,1550,Colombia,funded,1525762,56
+653165,5100,Tanzania,funded,1525647,171
+654143,1400,Sierra Leone,funded,1507246,49
+653924,850,Yemen,funded,1506832,31
+653219,2450,Tanzania,funded,1503087,67
+653240,1000,Palestine,funded,1501791,34
+653161,3175,Tanzania,funded,1501331,114
+653168,2425,Tanzania,funded,1484591,80
+653213,1500,Cambodia,funded,1463165,49
+653434,750,Honduras,funded,1453724,25
+653980,1425,Vietnam,funded,1429174,53
+653155,1050,Colombia,funded,1422807,19
+653668,400,Pakistan,funded,1419824,16
+653412,375,El Salvador,funded,1419311,15
+653320,875,Tanzania,funded,1417306,25
+653533,850,Kenya,funded,1413468,33
+653889,1000,El Salvador,funded,1406933,35
+654287,3800,Senegal,funded,1406032,100
+653319,1025,Tanzania,funded,1405315,34
+653369,1550,Tanzania,funded,1403945,46
+653636,600,Kenya,funded,1403157,9
+653801,500,El Salvador,funded,1399100,17
+653802,500,El Salvador,funded,1393479,20
+653604,700,Kenya,funded,1390216,27
+654240,550,El Salvador,funded,1386330,21
+653312,1500,Palestine,funded,1375348,54
+653457,1000,El Salvador,funded,1370416,34
+654384,1000,El Salvador,funded,1364577,34
+653764,1975,Nicaragua,funded,1360237,68
+653659,475,Pakistan,funded,1352188,15
+653316,1175,Kenya,funded,1350984,43
+653484,375,Peru,funded,1350532,15
+653257,350,Kenya,funded,1341089,14
+653172,1850,Tanzania,funded,1338224,66
+653540,1650,Vietnam,funded,1337476,57
+654053,600,Kenya,funded,1335542,21
+653455,1075,Peru,funded,1333601,42
+653779,1500,El Salvador,funded,1317136,42
+653725,550,Colombia,funded,1314881,22
+653923,950,Yemen,funded,1308494,37
+653846,375,Peru,funded,1308345,12
+653424,725,Peru,funded,1304583,27
+653449,400,El Salvador,funded,1294240,9
+653789,700,El Salvador,funded,1291225,27
+653415,4000,United States,funded,1289040,93
+654286,1425,Pakistan,funded,1286106,54
+653688,600,Kenya,funded,1284457,20
+653502,1500,Cambodia,funded,1280518,53
+653947,600,Jordan,funded,1279925,22
+653437,775,Ecuador,funded,1273972,25
+653658,400,Pakistan,funded,1271847,16
+653974,2600,Colombia,funded,1265538,86
+653738,350,El Salvador,funded,1263639,14
+653539,1175,Kenya,funded,1262720,36
+653691,650,Ghana,funded,1252858,25
+653660,400,Pakistan,funded,1252307,9
+1383386,100,Philippines,funded,1248909,1
+653215,450,Pakistan,funded,1247827,16
+653313,600,Kenya,funded,1239433,22
+653748,350,El Salvador,funded,1237917,12
+1080149,125,Kenya,funded,1228908,6
+654209,925,Kenya,funded,1223511,36
+653780,4450,Bolivia,funded,1211986,126
+653861,850,Nicaragua,funded,1202325,27
+654162,1175,Sierra Leone,funded,1194249,45
+654071,950,Pakistan,funded,1193791,26
+653655,400,Pakistan,funded,1193017,16
+653429,750,Honduras,funded,1192907,26
+653783,2550,Bolivia,funded,1189857,84
+653692,600,Kenya,funded,1176096,16
+653943,2425,Vietnam,funded,1167391,90
+642684,1525,Uganda,funded,1166045,1
+76281,500,El Salvador,funded,1157108,18
+1251510,1800,Georgia,funded,1156218,54
+653085,450,Pakistan,funded,1146563,15
+653928,575,Yemen,funded,1145363,22
+654310,775,Nicaragua,funded,1141316,30
+653091,400,Pakistan,funded,1136876,11
+654278,3425,Senegal,funded,1135859,83
+654295,2650,Nicaragua,funded,1134954,92
+1080160,125,Kenya,funded,1128524,4
+654345,1200,Ecuador,funded,1120890,38
+1080158,125,Kenya,funded,1119627,4
+654296,1200,El Salvador,funded,1117976,47
+653875,700,Palestine,funded,1117219,27
+654239,400,El Salvador,funded,1113653,16
+653307,750,Tajikistan,funded,1112703,18
+653805,500,El Salvador,funded,1101279,17
+653104,250,Philippines,funded,1096740,10
+653175,3175,India,funded,1091663,97
+653601,625,Kenya,funded,1091631,11
+653255,2500,Palestine,funded,1090563,83
+653988,1500,Vietnam,funded,1089423,29
+653922,950,Yemen,funded,1088701,35
+654060,1350,Philippines,funded,1084380,51
+653187,475,Kenya,funded,1082875,19
+653201,2975,Tanzania,funded,1081733,93
+653205,450,Pakistan,funded,1077361,16
+653325,700,Kenya,funded,1075949,20
+653423,700,El Salvador,funded,1075798,26
+653180,475,Kenya,funded,1073906,17
+654272,5625,Peru,funded,1072899,130
+653840,800,El Salvador,funded,1072297,24
+654201,1000,Timor-Leste,funded,1047212,39
+653396,800,Nicaragua,funded,1043497,7
+653387,750,Honduras,funded,1042821,26
+653395,250,Nicaragua,funded,1040699,9
+653731,550,Colombia,funded,1040288,13
+653374,500,El Salvador,funded,1039448,19
+654187,1875,Burundi,funded,1039084,67
+653582,600,Kenya,funded,1037508,21
+653409,875,Bolivia,funded,1028337,14
+654340,1200,Ecuador,funded,1015893,36
+653173,600,Kenya,funded,1013739,24
+653518,300,Pakistan,funded,1011848,10
+653486,325,Peru,funded,1010756,11
+654267,1050,El Salvador,funded,1008030,25
+654270,300,El Salvador,funded,1006943,12
+653520,475,Pakistan,funded,990894,18
+654036,1000,Timor-Leste,funded,988527,38
+653620,350,Sierra Leone,funded,987825,11
+653684,625,Ghana,funded,976917,23
+653528,600,Kenya,funded,976017,19
+653202,600,Kenya,funded,974146,20
+653804,3925,Ecuador,funded,971200,93
+654095,475,Yemen,funded,965341,17
+654114,1500,Indonesia,funded,965160,51
+654376,1375,Peru,funded,949698,47
+653721,625,Ecuador,funded,949224,22
+654058,1350,Philippines,funded,943412,36
+653286,4275,Vietnam,funded,936695,147
+654030,350,Pakistan,funded,935148,14
+653760,500,El Salvador,funded,933210,15
+653929,950,Yemen,funded,922256,29
+653293,4750,Vietnam,funded,913188,173
+653443,3025,Ecuador,funded,910601,65
+653874,800,El Salvador,funded,859473,17
+653761,5000,United States,funded,859280,158
+653857,475,Nicaragua,funded,854240,10
+653860,1675,Vietnam,funded,853928,57
+653946,750,Jordan,funded,843540,29
+653595,500,Kenya,funded,830765,15
+654083,600,Kenya,funded,821581,19
+653730,300,El Salvador,funded,802709,11
+653078,400,Pakistan,funded,801163,8
+495978,175,Madagascar,funded,800427,7
+653602,250,Kenya,funded,799770,7
+653933,325,Jordan,funded,798127,9
+351,250,Philippines,funded,773599,10
+654178,250,Kenya,funded,771183,10
+653290,4275,Vietnam,funded,756478,144
+653382,2775,Tanzania,funded,748794,101
+653080,475,Pakistan,funded,747261,18
+653936,750,Jordan,funded,739655,19
+653982,1075,Vietnam,funded,739503,37
+653969,1125,Philippines,funded,738355,39
+653704,475,Kenya,funded,737965,18
+654322,475,Sierra Leone,funded,731753,19
+653720,750,Nicaragua,funded,728205,26
+654207,1400,Sierra Leone,funded,717810,37
+653926,375,Yemen,funded,716034,15
+654319,350,Sierra Leone,funded,712527,13
+653851,725,Peru,funded,712412,25
+654233,300,Pakistan,funded,709096,9
+653856,2475,Vietnam,funded,695282,79
+654027,300,Pakistan,funded,683288,10
+653942,625,Jordan,funded,678968,25
+653188,1000,Cambodia,funded,677847,31
+653741,2475,Honduras,funded,666586,46
+653514,350,Pakistan,funded,658944,14
+653586,225,Senegal,funded,657774,8
+653808,725,Peru,funded,646498,22
+653618,300,Pakistan,funded,631377,12
+653925,800,Yemen,funded,630976,31
+653140,525,Colombia,funded,623984,20
+653718,2975,Tanzania,funded,620927,82
+653076,450,Pakistan,funded,610266,18
+654293,300,El Salvador,funded,607399,9
+653448,550,Honduras,funded,607220,14
+653854,2000,Vietnam,funded,606759,65
+653275,4275,Vietnam,funded,601060,144
+653938,475,Jordan,funded,596173,17
+528261,650,Philippines,funded,580401,16
+653089,400,Pakistan,funded,563417,16
+653703,600,Kenya,funded,559248,16
+653345,600,Kenya,funded,548995,22
+653359,600,Nicaragua,funded,546160,16
+653517,525,Kenya,funded,545851,21
+653590,250,Kenya,funded,545030,10
+653843,500,El Salvador,funded,543326,19
+653115,275,Philippines,funded,542624,11
+653698,475,Kenya,funded,541140,14
+653832,250,India,funded,537579,10
+653830,250,India,funded,534416,10
+653097,350,Philippines,funded,531733,12
+653186,1000,Cambodia,funded,518290,31
+653195,1300,Cambodia,funded,506250,39
+653968,600,Timor-Leste,funded,504547,20
+653182,1525,Tanzania,funded,501624,46
+653577,2000,Cambodia,funded,491001,72
+653468,300,El Salvador,funded,488310,12
+654140,825,Indonesia,funded,476942,26
+7487,700,Tajikistan,funded,470622,22
+653545,600,Kenya,funded,467556,24
+653845,1000,El Salvador,funded,464751,27
+653690,600,Kenya,funded,447868,22
+706941,200,Philippines,funded,445938,8
+654021,400,Pakistan,funded,444665,15
+653452,4300,Ecuador,funded,441925,108
+653883,625,El Salvador,funded,420944,21
+653527,650,Tajikistan,funded,419266,22
+653612,450,Cambodia,funded,419018,17
+653652,600,Kenya,funded,412244,15
+653580,1500,Cambodia,funded,399608,51
+653454,1500,El Salvador,funded,393882,30
+653530,1000,Cambodia,funded,382381,33
+653605,675,Pakistan,funded,381169,23
+653304,250,Kenya,funded,379360,9
+653160,5775,Tanzania,funded,379241,154
+653284,4750,Vietnam,funded,375868,162
+653606,850,Kenya,funded,349997,34
+653327,250,Kenya,funded,349490,9
+653471,500,El Salvador,funded,343981,20
+653918,1150,Colombia,funded,338178,26
+653573,625,Tajikistan,funded,337174,20
+653667,475,Pakistan,funded,335581,10
+653093,925,Philippines,funded,330005,34
+654235,700,El Salvador,funded,328496,25
+653262,250,Kenya,funded,327657,6
+653143,2100,Colombia,funded,325699,59
+653450,725,Peru,funded,325300,26
+653608,250,Kenya,funded,322888,7
+653481,550,Peru,funded,322770,22
+653112,1150,Philippines,funded,310770,22
+653596,750,Cambodia,funded,310655,22
+653241,250,Kenya,funded,301813,7
+653548,1750,Cambodia,funded,300035,59
+653525,400,Pakistan,funded,297281,16
+653247,250,Kenya,funded,297131,9
+653184,1200,Cambodia,funded,293375,43
+653515,475,Pakistan,funded,291586,18
+653322,600,Kenya,funded,290134,22
+653722,300,El Salvador,funded,283890,11
+654176,275,Uganda,funded,282542,9
+653656,600,Kenya,funded,282314,15
+653150,325,Colombia,funded,280208,9
+653118,475,Philippines,funded,275322,17
+653729,1150,Ecuador,funded,274813,41
+653305,600,Kenya,funded,271788,21
+653639,500,Cambodia,funded,271436,20
+653394,325,Liberia,funded,267025,12
+653807,500,Peru,funded,264671,16
+653716,2600,Tanzania,funded,263514,88
+653913,1100,Vietnam,funded,261315,40
+647494,400,Kenya,funded,260044,12
+653198,250,Kenya,funded,259307,1
+653591,600,Cambodia,funded,257991,22
+653364,250,Nicaragua,funded,257932,8
+654159,275,Uganda,funded,255525,9
+653237,250,Kenya,funded,254066,3
+653245,250,Kenya,funded,253013,4
+653350,250,Kenya,funded,252048,9
+653617,1400,Ghana,funded,250927,51
+653505,1500,Cambodia,funded,245523,52
+653868,500,El Salvador,funded,245196,20
+402224,200,Paraguay,funded,244945,3
+654236,425,El Salvador,funded,243351,17
+653306,250,Kenya,funded,243056,6
+653616,275,Sierra Leone,funded,241194,9
+634949,700,El Salvador,funded,238797,21
+653291,325,Liberia,funded,237734,9
+653588,250,Kenya,funded,236763,5
+653436,675,Ecuador,funded,236021,22
+653391,375,Liberia,funded,235603,15
+653504,1200,Cambodia,funded,231795,21
+653615,350,Kenya,funded,230812,11
+653376,225,Senegal,funded,229262,5
+654202,1050,Sierra Leone,funded,227356,41
+653594,650,Cambodia,funded,226474,20
+653111,475,Philippines,funded,225357,14
+653645,725,Cambodia,funded,223389,26
+653510,400,Pakistan,funded,221096,12
+653492,1075,Peru,funded,220378,39
+653940,625,Jordan,funded,214456,21
+653535,875,Cambodia,funded,213721,24
+653276,250,Kenya,funded,213545,10
+654157,350,Kenya,funded,211041,13
+653554,625,Cambodia,funded,210280,17
+653048,625,Pakistan,funded,209042,24
+653631,300,Sierra Leone,funded,207237,9
+653958,1000,Timor-Leste,funded,206503,37
+653611,250,Sierra Leone,funded,204210,9
+653670,400,Pakistan,funded,203933,14
+653302,250,Kenya,funded,202849,8
+654087,250,Kenya,funded,202397,9
+653251,1850,Palestine,funded,201534,48
+889708,1000,Ecuador,funded,201408,24
+653751,350,El Salvador,funded,201044,12
+653292,1700,Mali,funded,200198,63
+653214,175,Kenya,funded,199331,6
+653677,400,Pakistan,funded,194520,16
+653381,325,Liberia,funded,194165,10
+212763,1250,Azerbaijan,funded,193075,38
+653768,4575,Haiti,funded,192810,135
+653607,1875,Ghana,funded,192226,60
+653283,1325,Mali,funded,191331,50
+653570,700,Cambodia,funded,190316,27
+653850,1475,Bolivia,funded,189174,32
+653058,400,Pakistan,funded,188630,16
+653309,250,Kenya,funded,188466,6
+653795,450,Colombia,funded,185549,12
+653347,175,Liberia,funded,185221,3
+653460,300,El Salvador,funded,184607,8
+653354,325,Liberia,funded,183234,13
+653433,1500,El Salvador,funded,183222,55
+653787,600,El Salvador,funded,183204,21
+653681,475,Kenya,funded,183091,15
+653954,100,Uganda,funded,180758,4
+653579,1000,Cambodia,funded,180757,39
+653393,250,Liberia,funded,180585,5
+653727,700,Ecuador,funded,180485,27
+653705,450,Colombia,funded,179688,17
+653294,325,Liberia,funded,179636,13
+653754,425,Colombia,funded,178793,12
+654378,750,Ecuador,funded,178024,19
+653406,750,Honduras,funded,177032,12
+653914,1100,Vietnam,funded,176185,37
+653750,350,El Salvador,funded,173156,9
+654264,600,El Salvador,funded,171699,4
+653287,275,Liberia,funded,171431,11
+653881,1300,El Salvador,funded,171064,47
+653116,1025,Philippines,funded,169899,28
+653408,3400,Peru,funded,169766,60
+653464,800,Cambodia,funded,169496,28
+653890,1000,El Salvador,funded,165941,25
+653865,1100,El Salvador,funded,165686,44
+653557,500,Cambodia,funded,164786,17
+653873,400,El Salvador,funded,164401,6
+653426,300,El Salvador,funded,163454,3
+653088,400,Pakistan,funded,162943,16
+653821,1100,Colombia,funded,162238,25
+653561,750,Cambodia,funded,161891,24
+653526,350,Pakistan,funded,159810,8
+653694,350,Kenya,funded,157153,11
+653508,575,Philippines,funded,155478,19
+653953,100,Uganda,funded,154114,1
+653597,500,Cambodia,funded,154045,20
+653927,475,Yemen,funded,151205,19
+653050,575,Pakistan,funded,150651,20
+653476,300,El Salvador,funded,150508,11
+653886,500,El Salvador,funded,149866,13
+653674,400,Pakistan,funded,146105,7
+654218,250,Kenya,funded,144240,8
+653555,1100,Cambodia,funded,144191,32
+653948,750,Jordan,funded,141357,14
+653781,700,El Salvador,funded,141083,24
+653217,2200,Tanzania,funded,140250,77
+653164,1625,Tanzania,funded,139066,49
+653181,1500,Cambodia,funded,138707,26
+653500,800,Peru,funded,138095,27
+653204,250,Kenya,funded,138075,10
+653559,250,Kenya,funded,136991,4
+653329,250,Kenya,funded,135179,10
+653563,500,Cambodia,funded,134862,19
+653507,1000,Cambodia,funded,134222,36
+653589,1000,Cambodia,funded,134169,26
+653685,250,Kenya,funded,133227,10
+653592,250,Kenya,funded,130658,2
+654377,1275,Ecuador,funded,129970,13
+653837,400,El Salvador,funded,129115,13
+654062,125,Kenya,funded,128980,5
+653640,250,India,funded,125710,7
+653438,225,Peru,funded,125578,9
+653661,475,Pakistan,funded,125576,14
+653541,425,Tajikistan,funded,125450,12
+653543,400,Cambodia,funded,124777,14
+653855,450,Colombia,funded,123134,18
+653298,150,Liberia,funded,122470,6
+653979,1300,Vietnam,funded,122412,46
+653479,1000,El Salvador,funded,121400,39
+653672,400,Pakistan,funded,120905,16
+653049,250,Pakistan,funded,120408,8
+653278,250,India,funded,117476,7
+653234,2000,Tajikistan,funded,117354,71
+653194,1000,Cambodia,funded,117006,37
+653643,500,Cambodia,funded,116714,19
+35651,225,Nicaragua,funded,116181,8
+653511,2600,Tanzania,funded,115949,55
+653666,650,Ghana,funded,115355,19
+653062,400,Pakistan,funded,114580,10
+653399,3975,Peru,funded,112633,84
+653734,350,Sierra Leone,funded,112433,13
+653689,350,Kenya,funded,112238,11
+653156,2125,India,funded,109165,51
+653189,250,Kenya,funded,108887,8
+653243,250,Kenya,funded,108386,10
+653638,950,Ghana,funded,108247,37
+653295,2850,Vietnam,funded,107956,86
+653682,250,Kenya,funded,107699,7
+653220,250,Kenya,funded,106469,8
+654234,100,Uganda,funded,104928,1
+653680,400,Pakistan,funded,104877,16
+653336,200,Liberia,funded,103661,8
+653733,425,Sierra Leone,funded,103638,15
+654387,875,Ecuador,funded,103433,20
+653296,1050,Mali,funded,102310,34
+653178,875,Tanzania,funded,101062,25
+653051,300,Pakistan,funded,100434,12
+653288,200,Liberia,funded,100214,8
+653206,1500,Cambodia,funded,99456,54
+653600,250,Cambodia,funded,98391,10
+653552,250,Pakistan,funded,96034,7
+653334,600,Kenya,funded,96003,23
+653673,475,Pakistan,funded,95720,18
+653753,1450,Honduras,funded,95494,48
+653651,750,Cambodia,funded,95254,28
+653623,300,Sierra Leone,funded,95185,9
+653053,575,Pakistan,funded,95175,14
+654325,300,Sierra Leone,funded,92658,12
+653711,600,Kenya,funded,92577,18
+653303,200,India,funded,91376,7
+653739,300,Sierra Leone,funded,90131,12
+653880,300,El Salvador,funded,89376,9
+653919,1050,Colombia,funded,89150,19
+653167,1450,Tanzania,funded,88777,44
+653346,200,Liberia,funded,88054,8
+653403,2850,Guatemala,funded,87921,97
+653392,375,Liberia,funded,87629,15
+653458,475,Philippines,funded,87423,12
+653778,2025,Haiti,funded,87294,63
+653732,300,Sierra Leone,funded,87031,12
+653421,375,El Salvador,funded,85963,15
+653493,425,Philippines,funded,85157,16
+653774,775,Nicaragua,funded,85065,31
+653662,400,Pakistan,funded,84121,16
+654366,650,Peru,funded,84017,24
+653786,100,El Salvador,funded,82408,3
+653384,850,Senegal,funded,81392,24
+653333,425,Philippines,funded,81212,14
+653877,1000,El Salvador,funded,81180,20
+653341,475,Philippines,funded,80692,15
+653569,1450,Cambodia,funded,79203,33
+653882,500,El Salvador,funded,79076,6
+653885,600,El Salvador,funded,79033,23
+653498,200,Peru,funded,79022,8
+654212,125,Kenya,funded,78786,5
+653310,250,Kenya,funded,78398,10
+653717,300,Sierra Leone,funded,78229,5
+653796,700,El Salvador,funded,77056,4
+653490,575,Philippines,funded,77011,20
+653113,350,Philippines,funded,76853,13
+653798,1075,Ecuador,funded,76801,23
+653485,400,Philippines,funded,76782,16
+653417,425,Colombia,funded,76306,10
+653566,200,Pakistan,funded,74034,5
+653762,300,El Salvador,funded,73802,9
+653179,600,Kenya,funded,73521,21
+653800,650,Ecuador,funded,72094,24
+653629,375,Cambodia,funded,71303,15
+1323915,125,Philippines,funded,71117,5
+653101,425,Philippines,funded,70944,17
+654131,275,Uganda,funded,70520,11
+653921,950,Yemen,funded,70046,33
+653641,450,Cambodia,funded,69688,18
+653571,675,Pakistan,funded,69527,23
+653671,400,Pakistan,funded,69312,14
+653422,1025,Peru,funded,69059,31
+653523,250,Pakistan,funded,68843,5
+653235,250,Kenya,funded,68667,7
+653793,100,El Salvador,funded,68445,4
+653910,175,Colombia,funded,68185,4
+653162,500,Cambodia,funded,67582,5
+653209,1500,Cambodia,funded,67335,46
+653499,575,Philippines,funded,67150,19
+653311,150,Liberia,funded,66935,6
+653494,200,Philippines,funded,66926,8
+654050,450,Philippines,funded,66572,10
+653878,300,El Salvador,funded,66572,12
+653103,350,Philippines,funded,66356,14
+653560,1000,Cambodia,funded,66259,31
+653099,700,Philippines,funded,66245,21
+653200,250,Kenya,funded,65896,8
+653799,325,Ecuador,funded,64345,12
+653061,250,Pakistan,funded,64047,7
+653308,150,Liberia,funded,63247,6
+653461,250,Philippines,funded,62002,7
+653495,375,Philippines,funded,61838,14
+653054,300,Pakistan,funded,61562,9
+653370,375,Liberia,funded,61363,11
+653593,250,Kenya,funded,61130,10
+653536,150,Pakistan,funded,61035,5
+653340,350,Philippines,funded,60453,7
+653647,250,India,funded,60291,7
+653621,925,Kenya,funded,60222,22
+653057,350,Pakistan,funded,59754,4
+653812,675,Philippines,funded,59539,25
+653480,275,Philippines,funded,58743,7
+653788,100,El Salvador,funded,58724,1
+653642,250,Sierra Leone,funded,58670,10
+653983,1425,Vietnam,funded,57680,53
+653990,275,Philippines,funded,57659,8
+653483,600,Philippines,funded,56931,23
+653127,700,Philippines,funded,56279,21
+653550,1325,Cambodia,funded,56072,40
+653814,250,Philippines,funded,55710,9
+653575,250,Kenya,funded,55681,10
+653984,300,Philippines,funded,55526,11
+653153,250,Philippines,funded,55274,10
+653650,125,Liberia,funded,55261,5
+653190,1200,Cambodia,funded,54896,37
+653506,500,Cambodia,funded,54672,8
+653676,400,Pakistan,funded,54602,15
+653299,250,India,funded,54368,9
+654184,125,Liberia,funded,53915,5
+653491,250,Philippines,funded,53628,10
+653634,250,India,funded,53587,9
+653249,350,Yemen,funded,53480,10
+653465,275,Philippines,funded,53418,5
+653055,350,Pakistan,funded,52779,13
+653987,300,Philippines,funded,52650,12
+653849,450,Colombia,funded,52580,17
+654214,250,Kenya,funded,52522,10
+653141,1500,Cambodia,funded,52318,59
+653646,225,India,funded,52157,8
+653649,250,India,funded,52136,9
+653503,1050,Tajikistan,funded,52079,40
+653439,500,Honduras,funded,51925,20
+654203,250,Kenya,funded,51777,5
+653558,1000,Cambodia,funded,51748,26
+653572,250,Kenya,funded,51730,4
+1328839,150,Philippines,funded,51668,1
+653314,350,Kenya,funded,51334,13
+653487,250,Philippines,funded,51262,10
+653105,425,Philippines,funded,51168,16
+653809,375,Philippines,funded,51154,14
+653077,475,Pakistan,funded,51091,16
+653657,450,Pakistan,funded,50798,18
+653822,850,Senegal,funded,50787,15
+654215,125,Kenya,funded,50454,5
+653474,375,Peru,funded,50263,15
+653268,400,Cambodia,funded,50071,15
+653724,225,Sierra Leone,funded,49962,1
+653679,575,Pakistan,funded,49670,12
+654224,225,Sierra Leone,funded,49618,9
+653538,1000,Cambodia,funded,49143,34
+653266,1000,Cambodia,funded,49126,36
+653551,200,Pakistan,funded,48900,5
+653435,350,Ecuador,funded,48331,14
+653853,450,Colombia,funded,48271,13
+653107,325,Philippines,funded,48229,10
+653174,575,Philippines,funded,48145,23
+336986,300,Philippines,funded,48030,6
+653644,250,India,funded,47812,10
+653229,250,Kenya,funded,47558,1
+653083,475,Pakistan,funded,47494,12
+654111,450,Cambodia,funded,47267,10
+653056,475,Pakistan,funded,47200,17
+653238,250,Kenya,funded,46883,10
+653273,150,India,funded,46819,3
+653585,125,Kenya,funded,46805,5
+654141,875,Cambodia,funded,46418,30
+653428,550,Peru,funded,45988,1
+654057,125,Kenya,funded,45815,4
+653440,200,Peru,funded,45391,8
+653223,250,Philippines,funded,45382,10
+653463,150,Philippines,funded,45381,6
+653696,600,Kenya,funded,45357,12
+653431,375,Peru,funded,45111,1
+653702,5850,Chile,funded,45100,107
+653321,600,Kenya,funded,44621,21
+653222,1250,Pakistan,funded,44600,35
+653466,250,Philippines,funded,44501,9
+653274,250,India,funded,44054,7
+653609,1350,Tanzania,funded,43996,11
+653279,1325,Mali,funded,43818,39
+654244,125,Liberia,funded,43810,4
+653069,250,India,funded,43707,10
+653489,200,Peru,funded,43600,7
+653227,250,Pakistan,funded,43449,7
+654134,1500,Cambodia,funded,43127,57
+653385,325,Liberia,funded,42801,11
+654372,850,Ecuador,funded,42742,24
+653133,475,Philippines,funded,42627,18
+653134,575,Philippines,funded,42548,20
+654146,2075,Burkina Faso,funded,42537,59
+653224,250,Kenya,funded,42494,10
+654257,125,Liberia,funded,42295,3
+653915,725,Vietnam,funded,42260,23
+653272,250,India,funded,42177,10
+653280,175,India,funded,42142,7
+653052,875,Pakistan,funded,42113,25
+653185,250,Kenya,funded,42029,7
+653934,1175,Jordan,funded,41796,46
+653136,625,Philippines,funded,41631,18
+653565,1000,Cambodia,funded,41561,10
+654126,250,India,funded,41397,10
+653482,500,Philippines,funded,41195,17
+653626,1175,Tanzania,funded,40707,8
+653546,250,Cambodia,funded,40570,7
+653669,600,Kenya,funded,40270,18
+653090,475,Pakistan,funded,39914,14
+653858,425,El Salvador,funded,39886,14
+653497,250,Philippines,funded,39406,8
+653697,350,Kenya,funded,39171,14
+653939,475,Jordan,funded,39011,14
+653199,250,Kenya,funded,38945,6
+654281,200,Pakistan,funded,38762,4
+654195,1400,Sierra Leone,funded,38643,36
+653073,250,India,funded,38260,10
+653469,175,Philippines,funded,38194,7
+653192,800,Cambodia,funded,38187,32
+654088,100,Liberia,funded,38017,1
+654225,125,Kenya,funded,37945,5
+653701,600,Kenya,funded,37742,20
+653537,500,Cambodia,funded,37682,18
+653654,525,Ghana,funded,37573,17
+653501,300,Philippines,funded,37552,11
+654044,200,Philippines,funded,36793,7
+653687,250,Kenya,funded,36755,9
+654213,125,Kenya,funded,36740,5
+653380,225,Senegal,funded,36624,7
+653339,350,Kenya,funded,36417,14
+653335,350,Philippines,funded,36304,11
+653129,3050,Mongolia,funded,36150,92
+653349,225,Philippines,funded,36137,9
+653622,450,Cambodia,funded,35868,18
+653225,250,Kenya,funded,35595,10
+653944,1175,Jordan,funded,35563,43
+653331,125,Liberia,funded,35331,5
+653462,400,El Salvador,funded,35147,14
+653587,125,Kenya,funded,34773,5
+653265,1200,Cambodia,funded,34585,34
+653203,250,Kenya,funded,34288,7
+653285,250,India,funded,34215,5
+653250,125,Kenya,funded,33932,5
+653941,550,Jordan,funded,33804,22
+653338,575,Philippines,funded,33762,19
+653544,125,Kenya,funded,33715,5
+654197,175,Kenya,funded,33609,7
+653950,475,Jordan,funded,33601,16
+653719,300,El Salvador,funded,33430,8
+653072,250,India,funded,33292,10
+653472,225,Philippines,funded,33179,4
+653301,250,India,funded,33063,7
+653297,125,Liberia,funded,32851,5
+653663,450,Pakistan,funded,32736,16
+654113,250,India,funded,32670,10
+653386,250,Liberia,funded,32655,10
+654364,200,El Salvador,funded,32611,7
+654009,275,Colombia,funded,32221,6
+653378,250,Liberia,funded,32184,10
+653158,325,Philippines,funded,32158,11
+653166,600,Cambodia,funded,32036,22
+653549,250,Kenya,funded,32004,3
+653233,125,Kenya,funded,31962,4
+653599,175,Senegal,funded,31737,7
+653197,250,Kenya,funded,31453,8
+653630,250,India,funded,31437,10
+653242,325,Philippines,funded,31022,11
+653531,250,Kenya,funded,31001,10
+653826,250,India,funded,30912,7
+653453,225,Philippines,funded,30777,9
+653289,250,India,funded,30606,10
+653610,250,Kenya,funded,30541,9
+653059,250,Pakistan,funded,30474,8
+653935,900,Jordan,funded,30408,35
+653300,150,Liberia,funded,30374,5
+653351,250,Philippines,funded,30242,10
+653637,250,India,funded,30188,9
+653102,475,Philippines,funded,30157,9
+653211,200,Cambodia,funded,30055,8
+653625,375,Cambodia,funded,30010,12
+653324,125,Liberia,funded,29814,5
+653109,350,Philippines,funded,29717,5
+653315,200,Liberia,funded,29588,4
+653553,125,Kenya,funded,29499,3
+653070,150,India,funded,29383,6
+653230,250,Kenya,funded,29264,10
+654054,225,Philippines,funded,28730,4
+653210,250,Kenya,funded,28605,1
+654101,250,India,funded,28548,8
+653317,250,Kenya,funded,28538,6
+654070,125,Philippines,funded,28341,5
+653568,250,Kenya,funded,28242,7
+653419,1175,Nicaragua,funded,28136,43
+653074,250,India,funded,28091,9
+653584,275,Cambodia,funded,27946,8
+654137,75,Kenya,funded,27871,3
+653148,250,Philippines,funded,27566,7
+653344,225,Philippines,funded,27553,9
+653635,250,India,funded,27499,10
+653665,400,Pakistan,funded,27427,15
+653075,225,India,funded,27219,7
+653358,125,Philippines,funded,27153,5
+653066,250,India,funded,26975,4
+653282,125,Kenya,funded,26829,2
+653067,200,India,funded,26828,8
+653810,250,Philippines,funded,26746,10
+653084,400,Pakistan,funded,26733,16
+1094905,600,Paraguay,funded,26717,18
+653816,250,Philippines,funded,26712,10
+653330,200,Philippines,funded,26604,6
+653578,250,Cambodia,funded,26314,5
+653945,750,Jordan,funded,26114,29
+654292,100,Liberia,funded,26053,4
+653367,175,Nicaragua,funded,26010,5
+653356,125,Philippines,funded,25894,5
+653065,250,Pakistan,funded,25765,10
+653829,200,India,funded,25459,7
+653082,475,Pakistan,funded,25059,19
+653976,450,Philippines,funded,25000,13
+653425,300,El Salvador,funded,24667,12
+654311,400,Ghana,funded,24350,16
+653328,125,Liberia,funded,24305,1
+653488,350,Philippines,funded,24228,14
+653352,150,Philippines,funded,24207,6
+653836,450,Colombia,funded,24095,15
+163170,700,Bolivia,funded,24078,28
+654289,100,Liberia,funded,24005,2
+653355,150,Philippines,funded,23868,5
+653086,400,Pakistan,funded,23642,16
+653737,225,Sierra Leone,funded,23492,7
+653952,1250,Vietnam,funded,23298,35
+653683,400,Pakistan,funded,23232,16
+653700,600,Kenya,funded,23111,16
+653131,675,Philippines,funded,22715,23
+653815,450,Philippines,funded,22591,14
+653371,150,Liberia,funded,22346,1
+653420,1000,Honduras,funded,22287,34
+653441,200,Honduras,funded,22209,8
+653068,150,India,funded,21810,6
+653132,1225,Mongolia,funded,21540,49
+653713,450,Colombia,funded,21400,12
+653744,325,Colombia,funded,21317,12
+653361,500,El Salvador,funded,21209,18
+653446,400,Philippines,funded,21167,9
+653715,450,Colombia,funded,21118,16
+653693,3900,Chile,funded,21039,77
+653121,250,Philippines,funded,20445,10
+653972,1000,Timor-Leste,funded,20359,33
+653096,325,Philippines,funded,20246,12
+653828,250,India,funded,20109,9
+653819,300,Philippines,funded,20087,12
+653951,475,Yemen,funded,20023,2
+653782,100,El Salvador,funded,19957,4
+653071,125,India,funded,19888,5
+653397,475,Colombia,funded,19782,12
+653509,575,Philippines,funded,19747,23
+653735,250,Sierra Leone,funded,19733,10
+653745,1450,Honduras,funded,19417,32
+653147,700,Philippines,funded,19131,8
+653752,600,Nicaragua,funded,18894,16
+653833,250,India,funded,18746,10
+654273,450,Bolivia,funded,18565,15
+653110,275,Philippines,funded,18453,10
+653063,200,Pakistan,funded,17809,8
+653081,200,Pakistan,funded,17761,8
+653366,475,Colombia,funded,17356,18
+653157,600,Kenya,funded,17270,10
+653477,250,Philippines,funded,17235,10
+653060,200,Pakistan,funded,17176,3
+653777,100,El Salvador,funded,16802,4
+653087,400,Pakistan,funded,16546,7
+653145,250,Philippines,funded,16526,9
+653839,450,Colombia,funded,16035,15
+653770,100,El Salvador,funded,15503,4
+653106,350,Philippines,funded,15250,11
+653456,375,Philippines,funded,15085,12
+653064,250,Pakistan,funded,15027,6
+653079,350,Pakistan,funded,14328,6
+653159,250,Kenya,funded,14292,6
+653475,250,Philippines,funded,14255,6
+653342,475,Colombia,funded,14235,16
+653094,700,Philippines,funded,14195,22
+653714,450,Colombia,funded,13719,11
+653114,350,Philippines,funded,13351,10
+653765,100,El Salvador,funded,12969,4
+653125,250,Philippines,funded,12601,6
+653137,300,Philippines,funded,12561,11
+653149,175,Philippines,funded,12538,7
+653146,175,Philippines,funded,12451,7
+653119,250,Philippines,funded,12399,10
+653120,275,Philippines,funded,11945,8
+653811,200,Philippines,funded,11593,8
+653723,450,Colombia,funded,11547,17
+653379,800,Colombia,funded,11475,18
+653451,350,Philippines,funded,11297,13
+653401,475,Colombia,funded,11286,15
+653763,100,El Salvador,funded,11089,4
+653353,475,Colombia,funded,11063,16
+653151,150,Philippines,funded,10750,1
+653139,200,Philippines,funded,10490,7
+653122,350,Philippines,funded,10436,11
+653817,175,Philippines,funded,10341,7
+653813,150,Philippines,funded,10145,6
+653124,425,Philippines,funded,9715,12
+653362,475,Colombia,funded,9198,11
+653144,250,Philippines,funded,9089,9
+653411,475,Colombia,funded,8988,16
+653769,100,El Salvador,funded,8702,4
+653818,150,Philippines,funded,7816,6
+653108,125,Philippines,funded,7554,5
+653389,125,Senegal,funded,7543,5
+653977,225,Philippines,funded,7070,6
+653699,450,Colombia,funded,6860,2
+653965,225,Philippines,funded,6835,2
+653100,150,Philippines,funded,6591,6
+653128,250,Philippines,funded,6381,10
+653142,250,Philippines,funded,6244,8
+653095,275,Philippines,funded,6163,10
+653138,200,Philippines,funded,5875,8
+653098,250,Philippines,funded,5706,7
+653985,150,Philippines,funded,5346,3
+653407,275,Colombia,funded,5244,1
+653092,175,Philippines,funded,4632,6
+653135,475,Philippines,funded,4370,2
+653971,125,Philippines,funded,4282,1
+653123,700,Philippines,funded,4089,2
+653130,575,Philippines,funded,2613,2
