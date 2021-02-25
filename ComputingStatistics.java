@@ -29,7 +29,7 @@ public class ComputingStatistics {
       Loan loan;
       for(int i = 0; i < data.size(); i++) {
          loan = data.get(i);
-         amount = amount + loan.getLoanAmount();
+         amount = amount + Loan.getLoanAmount();
       }
       return amount;
    }

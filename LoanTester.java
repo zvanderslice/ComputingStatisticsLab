@@ -3,8 +3,8 @@ public class LoanTester {
       Loan testOne = new Loan(12345, 280.00, "Japan", 5, 8);
 //       System.out.println(testOne.getID() + " == 12345");
 //       System.out.println(testOne.getLoanAmount() + " == 280.0");
-         System.out.println(testOne.getCountry() + " == Japan");
-         System.out.println(testOne.getDaysToFund() + " == 5");
+//        System.out.println(testOne.getCountry() + " == Japan");
+//         System.out.println(testOne.getDaysToFund() + " == 5");
 //       System.out.println(testOne.getNumLenders() + " == 8");
 //       System.out.println(testOne);  //tests toString
 //       System.out.println("ID: 12345 loan amount: 280.0 country: Japan days to fund: 5 num lenders: 8");  //validates toString test
