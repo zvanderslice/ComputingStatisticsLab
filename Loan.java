@@ -14,8 +14,8 @@ public class Loan
     private int daysToFund;
     private int numLenders;
 
-        public Loan(int ID, double loanAmount, String country, int daysToFund, 
-                int numLenders) {
+public Loan(int ID, double loanAmount, String country, int daysToFund, 
+       int numLenders) {
        this.ID = ID;
        this.loanAmount = loanAmount;
        this.country = country;
